@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+#nav-bar{
+  float: center;
+  padding-bottom: 2rem;
+  padding-left: 35rem;
+
+}
+.logo-h{
+  text-align: center;
+}
+.description{
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+
+  
+}
+#featured-property{
+  margin: auto;
+  text-align: center;
+}
+#details{
+  display: grid;
+  grid-template-columns: 400px 400px 400px 400px;
+  grid-template-rows: auto;
+  background-color: red;
+  text-align: center;
+  padding-left: 2rem;
+}
